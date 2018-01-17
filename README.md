@@ -25,7 +25,6 @@ Thanks for the support!
 
 --------------------------------------------------------------------------------------------------------------
 
-This was a personal project so you will notice the indicator dots on the left are made by an image, in your case they will be shuffled for sure because I have my systems ordered to work fine.
 
 I RECOMEND YOU TO DISABLE ON-SCREEN HELP, AND SET THE UI TRANSITION STYLE TO INSTANT
 
