@@ -1,0 +1,162 @@
+<!--
+theme name:     Chicuelo
+author:         Nico La Rosa - Chicuelo - Arcades & Design
+website:        chicuelo.com.ar
+font: Roboto-Medium.ttf
+-->
+
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+<!-- Carousel (Hide white bar and number of games-->
+<feature supported="carousel">
+
+<view name="system">
+
+<carousel name="systemcarousel">
+	<type>vertical</type>
+	<pos>0 0</pos>
+	<color>00000000</color>
+	<maxLogoCount>1</maxLogoCount>
+</carousel>
+
+<text name="systemInfo">
+    <fontPath>./_art/Roboto-Bold.ttf</fontPath>
+	<alignment>left</alignment>
+	<backgroundColor>00000000</backgroundColor>
+	<color>76797e</color>
+	<pos>0.150 0.770</pos>
+	<size>0.980 0.050</size>
+	<fontSize>0.025</fontSize>
+</text>
+
+</view>
+</feature>
+<!-- Carousel -->
+
+<view name="system">
+
+<image name="background">
+	<tile>true</tile>
+	<color>23232300</color>
+	<path>./_art/white.png</path>
+	<size>1 1</size>
+	<pos>0 0</pos>
+</image>
+
+<helpsystem name="help">
+    <textColor>ffcc33</textColor>
+    <iconColor>ffcc33</iconColor>
+    <fontPath>./_art/Roboto-Bold.ttf</fontPath>
+    <fontSize>0.025</fontSize>
+</helpsystem>
+</view>
+
+<view name="basic, detailed, grid, video">
+
+<image name="background">
+	<tile>true</tile>
+	<color>232323</color>
+	<path>./_art/white.png</path>
+	<size>1 1</size>
+	<pos>0 0</pos>
+	<zIndex>1</zIndex>
+</image>
+
+<helpsystem name="help">
+	<pos>.007 .936</pos>
+    <textColor>232323</textColor>
+    <iconColor>232323</iconColor>
+    <fontPath>./_art/Roboto-Bold.ttf</fontPath>
+    <fontSize>0.016</fontSize>
+</helpsystem>
+
+</view>
+
+	
+<view name="basic">
+
+<image name="logo">
+    <path>./_art/logo.png</path>
+</image>
+
+<textlist name="gamelist">
+	<selectorColor>FFFFFF</selectorColor>
+	<selectorImagePath>./_art/icon.png</selectorImagePath>
+	<selectedColor>b21212</selectedColor>
+	<selectorHeight>.05</selectorHeight>
+	<primaryColor>EEEEEE</primaryColor>
+	<secondaryColor>eac428</secondaryColor>
+	<fontPath>./_art/Roboto-Medium.ttf</fontPath>
+	<alignment>left</alignment>
+	<pos>0.04 0.23</pos>
+	<size>0.415 0.67</size>
+	<fontSize>0.022</fontSize>
+	<lineSpacing>1</lineSpacing>
+	<horizontalMargin>0.04</horizontalMargin>
+</textlist>
+
+</view>
+
+<view name="detailed, video">
+
+<image name="logo">
+    <path>./_art/logo.png</path>
+</image>
+
+<textlist name="gamelist">
+	<selectorColor>ffffff</selectorColor>
+	<selectorImagePath>./_art/icon.png</selectorImagePath>
+	<selectedColor>78c7ef</selectedColor>
+	<selectorHeight>.05</selectorHeight>
+	<primaryColor>dee0e8</primaryColor>
+	<secondaryColor>eac428</secondaryColor>
+	<fontPath>./_art/Roboto-Medium.ttf</fontPath>
+	<alignment>left</alignment>
+	<forceUppercase>1</forceUppercase>
+	<pos>0.07 0.12</pos>
+	<size>0.395 0.75</size>
+	<fontSize>0.03</fontSize>
+	<lineSpacing>1.62</lineSpacing>
+	<horizontalMargin>0.05</horizontalMargin>
+</textlist>
+
+</view>
+
+<view name="detailed">
+
+<image name="md_image">
+	<origin>.7 .3</origin>
+	<pos>0.780 0.290</pos>
+	<maxSize>0.51 0.51</maxSize>
+</image>
+
+</view>
+
+<feature supported="video">
+
+<view name="video">
+
+<video name="md_video">
+	<origin>.5 .5</origin>
+	<pos>0.3885 0.422</pos>
+	<maxSize>0.517 0.359</maxSize>
+	<delay>0.1</delay>
+	<showSnapshotNoVideo>true</showSnapshotNoVideo>
+	<showSnapshotDelay>false</showSnapshotDelay>
+</video>
+
+<!--
+<image name="md_image">
+	<origin>1 1</origin>
+	<pos>.847 0.4</pos>
+	<maxSize>0.2 0.2</maxSize>
+	<zIndex>100</zIndex>
+</image>
+-->
+</view>
+
+</feature>
+
+</theme>
