@@ -41,7 +41,6 @@ Theme Preview:
 
 ![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17f18c56793299.59bc6315a8e31.jpg)
 
-*Images
 
 Thanks for the support!
 
