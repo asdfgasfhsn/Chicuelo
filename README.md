@@ -11,20 +11,47 @@ This design was intended to make a more beautiful and clean experience, with no 
 Just the esencial and trying to make a professional and minimal interface, but with a nice impact.
 Every system has an iconic game and character so I tried to show that with the controller so you can easily recognize what system you are going to play. Also it has a short description and info about that system.
 
-This is only a Theme I have created for retropie. By using this artwork I assume you have the ownership and rights of all the games you are going to play.
-This is a free theme so you can not sell or make money with this.
+This is only a Theme I have created for retropie. By using this artwork I assume you have the ownership and rights of all the games you are going to play. This is a free theme so you can not sell or make money with this.
 
-Game screens are not included. You can see the whole retropie redesign here:
+Designed by Chicuelo (Nico La Rosa)
 
-be.net/gallery/56793299/Arcade-Interface-UX-UI
+Theme Preview:
 
-https://youtu.be/uNxj2zPcak4
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/10baef56793299.5a5ccc4379b95.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa411f56793299.59bc2cc71a6e8.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/46842556793299.59bc60d711eee.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/13526f56793299.59bc60d7112d9.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/554a3c56793299.59bc2cc71e8fa.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/37dbb556793299.59bc2cc71a9e3.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2266cc56793299.59bc60d7133b9.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/00f5c956793299.59bc71b03266f.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c811db56793299.59bc71afe22ef.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5e512056793299.59bc6315a87d6.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/99206456793299.59bc6315a8a85.jpg)
+
+![Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17f18c56793299.59bc6315a8e31.jpg)
+
+*Images
 
 Thanks for the support!
 
 
 --------------------------------------------------------------------------------------------------------------
 
+Notes:
+
+The dot indicator is not included in the Theme, its just a fake indicator made for my systems, so it won't work fine on your setup.
+Game screens are not included with the theme, you can scrape your own or use the game box art that it should work fine.
 
 I RECOMEND YOU TO DISABLE ON-SCREEN HELP, AND SET THE UI TRANSITION STYLE TO INSTANT
 
@@ -54,7 +81,9 @@ Sega Dreamcast
 Sega 32x / CD
 Super Nintendo Entertainment System
 Retropie setup
-Favorites Menu
-Power Menu
+Auto - Favorites
+Auto - Last Played
+Auto - All Games
+Power Menu in case you have one, name it power o rename the folder
 
 
